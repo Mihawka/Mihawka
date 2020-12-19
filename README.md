@@ -1,6 +1,8 @@
 <h1 align="center">Hi everyone 👋</h1>
 <h3 align="center">I'm Marc, French Independent Voxel Video-Games Developer who use Unity</h3>  
 
+![](https://komarev.com/ghpvc/?username=Mihawka&color=blue)
+
 - 🔭 I’m currently working on The Seed at ExeCaution Creators
 - 👯 I’m looking to collaborate on French Independent Video-Games Projects which use Voxel
 - 💬 Ask me about C#, Unity and Game Programming
