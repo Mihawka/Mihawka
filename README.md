@@ -8,7 +8,7 @@
 - 💬 Ask me about C#, Rust, Unity and Game Programming
 - 📫 How to reach me: [Discord](dsc.bio/Mihawka)
 - 😄 Pronouns: Miyoca
-- ⚡ Fun fact: I prefer play with my cat instead of play video-games but programming is so cool
+- ⚡ Fun fact: Nothing. I love cat and coffee. Yes i'm original.
 <p>
 <img alt ="csharp" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/csharp/csharp-original.svg" width="50" height ="50"></img>
 <img alt ="rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="50" height ="50"></img>
