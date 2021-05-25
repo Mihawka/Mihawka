@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on The Seed at ExeCaution Creators
 - 👯 I’m looking to collaborate on French Independent Video-Games Projects which use Voxel
 - 💬 Ask me about C#, Rust, Unity and Game Programming
-- 📫 How to reach me: [Discord](dsc.bio/Mihawka)
+- 📫 How to reach me: [Discord](https://dsc.bio/Mihawka)
 - 😄 Pronouns: Miyoca
 - ⚡ Fun fact: Nothing. I love cat and coffee. Yes i'm original.
 <p>
