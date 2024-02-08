@@ -26,10 +26,17 @@
   ![](https://img.shields.io/badge/-Github-%23181717?logo=github&logoColor=white)
   ![](https://img.shields.io/badge/-Windows-%230078D4?logo=windows&logoColor=white)
   ![](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=black)
+  ![](https://img.shields.io/badge/-Raspberry%20Pi-%23A22846?logo=raspberrypi&logoColor=white)
   ![](https://img.shields.io/badge/-7Zip-%23A8B9CC?logo=7Zip&logoColor=black)
   ![](https://img.shields.io/badge/-Docker-%232496ED?logo=docker&logoColor=white)
   ![](https://img.shields.io/badge/-VirtualBox-%23183A61?logo=virtualbox&logoColor=white)
   ![](https://img.shields.io/badge/-Proxmox-%23E57000?logo=proxmox&logoColor=white)
+  ![](https://img.shields.io/badge/-Windows%20Terminal-%234D4D4D?logo=windowsterminal&logoColor=white)
+  ![](https://img.shields.io/badge/-PowerShell-%235391FE?logo=powershell&logoColor=white)
+  <br>
+  ![](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?logo=visualstudio&logoColor=white)
+  ![](https://img.shields.io/badge/-VSCode-%23007ACC?logo=visualstudiocode&logoColor=white)
+  ![](https://img.shields.io/badge/-VS%20Codium-%232F80ED?logo=vscodium&logoColor=white)
   <br><br>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihawka&layout=compact&theme=dark)
   <picture>
