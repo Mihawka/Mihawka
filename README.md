@@ -2,7 +2,7 @@
   <h1>Hi there 👋, I'm Marc a french software & game developer.</h1>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMihawka%2FMihawka&count_bg=%230002FF&title_bg=%23555555&icon=azurepipelines.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-  [![](https://img.shields.io/static/v1?label=Website&message=arcaneum-lab.org&color=informational&logo=web)]([https://arcaneum-lab.org)
+  [![](https://img.shields.io/static/v1?label=Website&message=arcaneum-lab.org&color=informational&logo=web)](https://arcaneum-lab.org)
   [![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-augereau-exc/)
   [![](https://img.shields.io/badge/-Discord:_mihawka-%235865F2?logo=discord&logoColor=white)]()
   <picture>
