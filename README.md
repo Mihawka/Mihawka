@@ -12,7 +12,12 @@
   </picture>
 </div>
 
-# 💫 About Me 
+# 💫 About Me
+<details open>
+  <summary><h2>👔 Currently working as</h2></summary>
+  - ⚡ Nuclear Project Manager HN1<br>
+  - ⚙️ Rust Developer & ✏️ Redactor at Arcaneum LAB<br>
+</details>
 <details open>
   <summary><h2>✨ Skills</h2></summary>
   
@@ -25,10 +30,4 @@
   **📦 Database & Storage** | ![](https://img.shields.io/badge/-7Zip-%23A8B9CC?logo=7Zip&logoColor=black) ![](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white) ![](https://img.shields.io/badge/-Redis-%23DC382D?logo=redis&logoColor=white) ![](https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&logoColor=white)
   **🌐 Web** | ![](https://img.shields.io/badge/-Blazor-%23512BD4?logo=blazor) ![](https://img.shields.io/badge/-Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white) ![](https://img.shields.io/badge/-WASM-%23654FF0?logo=webassembly&logoColor=white)
   **🔧 SysAdmin** |   ![](https://img.shields.io/badge/-Windows-%230078D4?logo=windows&logoColor=white) ![](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=black) ![](https://img.shields.io/badge/-Raspberry%20Pi-%23A22846?logo=raspberrypi&logoColor=white) ![](https://img.shields.io/badge/-Proxmox-%23E57000?logo=proxmox&logoColor=white) ![](https://img.shields.io/badge/-Docker-%232496ED?logo=docker&logoColor=white) ![](https://img.shields.io/badge/-VirtualBox-%23183A61?logo=virtualbox&logoColor=white)
-</details>
-<details open>
-  <summary><h2>🧑‍🎓 Current learning</h2></summary>
-  - 🃏 Create a programming language<br>
-  - 👾 Develop a game engine<br>
-  - 🧠 Machine Learning
 </details>
