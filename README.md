@@ -15,7 +15,7 @@
 # 💫 About Me
 <details open>
   <summary><h2>👔 Currently working as</h2></summary>
-  - ⚡ Nuclear Project Manager HN1<br>
+  - 👔 Head of IT department<br>
   - ⚙️ Rust Developer & ✏️ Redactor at Arcaneum LAB<br>
 </details>
 <details open>
