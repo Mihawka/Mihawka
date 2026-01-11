@@ -15,8 +15,9 @@
 # 💫 About Me
 <details open>
   <summary><h2>👔 Currently working as</h2></summary>
-  - 👔 Head of IT department<br>
-  - ⚙️ Rust Developer & ✏️ Redactor at Arcaneum LAB<br>
+  - 👔 Head of IT department at D.A.M.I.E<br>
+  - ⚙️ Rust Software Developer & ✏️ Redactor at Arcaneum LAB<br>
+  - 🕹️ Game Developer at LoRE/VERSE<br>
 </details>
 <details open>
   <summary><h2>✨ Skills</h2></summary>
